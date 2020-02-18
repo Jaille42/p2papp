@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "moment": "*",
+    "firebase": "7.2.2",
+    "react-dom": "*",
+    "react-navigation": "^4.0.7",
+    "react-native-paper": "2.16.0",
+    "react-navigation-stack": "1.10.3",
+    "react-native-gifted-chat": "0.11.3"
+  }
+}
